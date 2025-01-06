@@ -1,5 +1,5 @@
-### CODSOFT INTERNSHIP - CALCULATOR APPLICATION
-# What is CODSOFT?
+# CODSOFT INTERNSHIP - CALCULATOR APPLICATION
+### What is CODSOFT?
 CODSOFT is an innovative software development company specializing in providing comprehensive digital solutions. With expertise in Python programming, mobile application development, cybersecurity, and web development, CODSOFT is recognized for its high-quality software and custom IT solutions. The company remains at the forefront of modern technologies, delivering cutting-edge systems that optimize operations for businesses and drive innovation in the tech industry.
 
 # Project: Calculator Application
